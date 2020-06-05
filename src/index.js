@@ -1,2 +1,3 @@
+require('./main.css');
 const b = require('./visitor');
-alert(b);
+console.log(b);
